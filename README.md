@@ -35,7 +35,104 @@
 
 ## 🏗 Architecture
 
-![Fusion Architecture](architecture.svg)
+<div align="center">
+
+<sub><b>PORTAL</b></sub>
+
+<table>
+<tr>
+<td align="center"><a href="https://bench.dpdns.org">● <b>bench.dpdns.org</b></a><br><sub>Web Portal</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-studio">● <b>macOS App</b></a><br><sub>Desktop Client</sub></td>
+</tr>
+</table>
+
+<sub><b>APPLICATIONS</b></sub>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-k12-teacher">● <b>Fusion-K12<br>Teacher</b></a><br><sub>Smart Education</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-finance">● <b>Fusion-Finance</b></a><br><sub>Financial Analysis</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-health">● <b>Fusion-Health</b></a><br><sub>Healthcare</sub></td>
+<td align="center">○ <b>Fusion-Ecommerce</b><br><sub>E-commerce Platform</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-science">● <b>Fusion-Science</b></a><br><sub>Scientific Computing</sub></td>
+</tr>
+</table>
+
+<sub><b>ECOSYSTEM</b></sub>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-plugins-ecosystem">● <b>Fusion-Plugins<br>Ecosystem</b></a><br><sub>Plugin Ecosystem</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-bench">● <b>Fusion-Bench</b></a><br><sub>Performance Benchmarking</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-browser">● <b>Fusion-Browser</b></a><br><sub>Browser Engine</sub></td>
+<td align="center">○ <b>Fusion-Skills</b><br><sub>Skills Library</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-simulation">● <b>Fusion-Simulation</b></a><br><sub>Simulation</sub></td>
+<td align="center">○ <b>Fusion-Robot</b><br><sub>Robot Control</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-comfyui">● <b>Fusion-ComfyUI</b></a><br><sub>ComfyUI Workflow</sub></td>
+</tr>
+</table>
+
+<sub><b>DEVELOPER TOOLS</b></sub>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-doc">● <b>Fusion-Doc</b></a><br><sub>Smart Documentation</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-code">● <b>Fusion-Code</b></a><br><sub>Code Generation</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-design">● <b>Fusion-Design</b></a><br><sub>Design Tools</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-security">● <b>Fusion-Security</b></a><br><sub>Security Audit</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-cowork">● <b>Fusion-Cowork</b></a><br><sub>Collaborative Workspace</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-agent-studio">● <b>Fusion-Agent<br>Studio</b></a><br><sub>Agent Studio</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-cli">● <b>Fusion-CLI</b></a><br><sub>CLI Tools</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-code-modelization">● <b>Fusion-Code<br>Modernization</b></a><br><sub>Code Modernization</sub></td>
+</tr>
+</table>
+
+<sub><b>CORE FRAMEWORK</b></sub>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-gateway">● <b>Fusion-Gateway</b></a><br><sub>Unified API Gateway &amp; Routing</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-core">● <b>Fusion-Core</b></a><br><sub>Core Runtime</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-executor">● <b>Fusion-Executor</b></a><br><sub>Task Executor</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-memory">● <b>Fusion-Memory</b></a><br><sub>Memory Manager</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-event">● <b>Fusion-Event</b></a><br><sub>Event Bus</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-guard">● <b>Fusion-Guard</b></a><br><sub>Safety Guard</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-store">● <b>Fusion-Store</b></a><br><sub>State Store</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-osagent">● <b>Fusion-OSAgent</b></a><br><sub>OS Agent</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/dahai80/fusion-mlx">● <b>Fusion-MLX</b></a><br><sub>MLX Inference Engine</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-models-hub">● <b>Fusion-Model Hub</b></a><br><sub>Model Hub</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-artifacts-engine">● <b>Fusion-Artifacts</b></a><br><sub>Artifacts Engine</sub></td>
+<td align="center"><a href="https://github.com/dahai80/fusion-multi-nodes">● <b>Fusion-Multi-Node</b></a><br><sub>Multi-Node Orchestration</sub></td>
+</tr>
+</table>
+
+<sub><b>INFRASTRUCTURE</b></sub>
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/ml-explore/mlx-lm">● <b>MLX-LM</b></a><br><sub>Language Model Inference</sub></td>
+<td align="center"><a href="https://github.com/Blaizzy/mlx-vlm">● <b>MLX-VLM</b></a><br><sub>Vision Model Inference</sub></td>
+<td align="center">● <b>Apple Silicon</b><br><sub>M-series Unified Memory</sub></td>
+</tr>
+</table>
+
+<sub>● Live · ○ Planned — every ● card links to its repository</sub>
+
+</div>
 
 ## 🗂 Project Layers
 
