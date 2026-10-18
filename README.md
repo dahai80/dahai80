@@ -9,6 +9,32 @@
 [![Rust](https://img.shields.io/badge/Rust-stable-DEA584?logo=rust&logoColor=white)](https://github.com/dahai80)
 [![Swift](https://img.shields.io/badge/SwiftUI-macOS%2014%2B-F05138?logo=swift&logoColor=white)](https://github.com/dahai80)
 
+## 📈 Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dahai80&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahai80&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+</p>
+
+## 📌 Featured Repositories
+
+<p>
+  <a href="https://github.com/dahai80/fusion-mlx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahai80&repo=fusion-mlx&theme=tokyonight&hide_border=true" alt="fusion-mlx"/>
+  </a>
+  <a href="https://github.com/dahai80/fusion-memory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahai80&repo=fusion-memory&theme=tokyonight&hide_border=true" alt="fusion-memory"/>
+  </a>
+</p>
+<p>
+  <a href="https://github.com/dahai80/fusion-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahai80&repo=fusion-code&theme=tokyonight&hide_border=true" alt="fusion-code"/>
+  </a>
+  <a href="https://github.com/dahai80/fusion-studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahai80&repo=fusion-studio&theme=tokyonight&hide_border=true" alt="fusion-studio"/>
+  </a>
+</p>
+
 ---
 
 ## 🧠 What is Fusion?
@@ -16,6 +42,11 @@
 Fusion is a **fully local AI ecosystem** running on Apple Silicon: model inference,
 memory, knowledge base, and workflows all execute on the machine itself —
 no cloud dependency, zero outbound traffic except 127.0.0.1.
+
+![Fusion Architecture](architecture.svg)
+
+<details>
+<summary>Text version of the architecture (click to expand)</summary>
 
 ```
                     ┌─────────────────────┐
@@ -31,6 +62,8 @@ no cloud dependency, zero outbound traffic except 127.0.0.1.
                     │     fusion-mlx      │  ⚡ Inference core (localhost:11434)
                     └─────────────────────┘
 ```
+
+</details>
 
 ## 🗂 Project Layers at a Glance
 
@@ -68,12 +101,3 @@ no cloud dependency, zero outbound traffic except 127.0.0.1.
 fusion-agent-studio · fusion-artifacts-engine · fusion-autotest · fusion-bench · fusion-browser · fusion-cli · fusion-code · fusion-comfyui · fusion-core · fusion-cowork · fusion-design · fusion-doc · fusion-drama · fusion-ecommerce · fusion-event · fusion-executor · fusion-finance · fusion-game · fusion-gateway · fusion-guard · fusion-health · fusion-identity · fusion-k12-teacher · fusion-memory · fusion-mlx · fusion-model-hub · fusion-multi-node · fusion-musetalk · fusion-ninfer · fusion-plugins-ecosystem · fusion-projects · fusion-rag · fusion-robot · fusion-science · fusion-security · fusion-simulation · fusion-store · fusion-studio · fusion-supervisor · fusion-trainer · fusion-web-shell
 
 </details>
-
-<!--
-Optional enhancements for a richer page:
-1. GitHub stats card:
-   <img src="https://github-readme-stats.vercel.app/api?username=dahai80&show_icons=true&theme=tokyonight" />
-2. Repo pin card:
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dahai80&repo=fusion-mlx" />
-3. Export architecture diagrams as SVG/PNG and reference them here
--->
